@@ -1,0 +1,71 @@
+﻿生成启动时间为 2017/6/4 15:30:08。
+     1>项目“H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\ForecastDecay.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D FORECASTDECAY_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt attenuation_ra.cpp DecayFC_DLL.cpp FUN.cpp ITUrp.cpp Obstacle.cpp
+         Obstacle.cpp
+         ITUrp.cpp
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(593): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(870): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1115): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1117): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1119): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1120): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1121): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1122): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1123): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1124): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1089) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1222): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1218) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1224): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1218) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1226): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1218) : 忽略“i”的定义
+                 h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(958) : 使用“i”的定义
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1239): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1273): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(956): warning C4101: “zc”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(957): warning C4101: “a”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(956): warning C4101: “zb”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(957): warning C4101: “b”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(956): warning C4101: “za”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(956): warning C4101: “zd”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1134): warning C4101: “hyn_max2”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1134): warning C4101: “hyn_max1”: 未引用的局部变量
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\iturp.cpp(1303): warning C4101: “d”: 未引用的局部变量
+         FUN.cpp
+     1>h:\研究生\徐晓庆资料\20150611-windows_wireless\forecastdecay\fun.cpp(183): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         DecayFC_DLL.cpp
+         attenuation_ra.cpp
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\ForecastDecay.dll" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\ForecastDecay.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\ForecastDecay.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug\attenuation_ra.obj
+         .\Debug\DecayFC_DLL.obj
+         .\Debug\FUN.obj
+         .\Debug\ITUrp.obj
+         .\Debug\Obstacle.obj
+     1>attenuation_ra.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 .\Debug\ForecastDecay.lib 和对象 .\Debug\ForecastDecay.exp
+         ForecastDecay.vcxproj -> H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\.\Debug\ForecastDecay.dll
+     1>已完成生成项目“H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\ForecastDecay.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.13

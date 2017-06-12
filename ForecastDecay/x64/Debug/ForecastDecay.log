@@ -1,0 +1,50 @@
+﻿生成启动时间为 2017/6/12 15:15:47。
+     1>项目“H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\ForecastDecay.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D FORECASTDECAY_EXPORTS /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /errorReport:prompt DecayFC_DLL.cpp ITUrp.cpp
+         DecayFC_DLL.cpp
+         ITUrp.cpp
+     1>ITUrp.cpp(577): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ITUrp.cpp(1038): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ITUrp.cpp(1072): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ITUrp.cpp(933): warning C4101: “hyn_max2”: 未引用的局部变量
+     1>ITUrp.cpp(933): warning C4101: “hyn_max1”: 未引用的局部变量
+     1>ITUrp.cpp(1209): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1211): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1213): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1214): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1215): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1216): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1217): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1218): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 ITUrp.cpp(1187) : 忽略“i”的定义
+                 ITUrp.cpp(1116) : 使用“i”的定义
+     1>ITUrp.cpp(1240): warning C4101: “d”: 未引用的局部变量
+         正在生成代码...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\x64\Debug\ForecastDecay.dll) does not match the Linker's OutputFile property value (H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\Debug\ForecastDecay.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\ForecastDecay.dll" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\x64\Debug\ForecastDecay.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\ForecastDecay.lib" /MACHINE:X64 /DLL .\Debug\attenuation_ra.obj
+         .\Debug\DecayFC_DLL.obj
+         .\Debug\FUN.obj
+         .\Debug\ITUrp.obj
+         .\Debug\Obstacle.obj
+         ForecastDecay.vcxproj -> H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\x64\Debug\ForecastDecay.dll
+     1>已完成生成项目“H:\研究生\徐晓庆资料\20150611-Windows_Wireless\ForecastDecay\ForecastDecay.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.38
